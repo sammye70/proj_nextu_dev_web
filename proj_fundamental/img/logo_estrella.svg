@@ -1,0 +1,17 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="202" width="202" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" d="m28,84.580833l55.003494,0l16.996506,-53.131618l16.996513,53.131618l55.003487,0l-44.498672,32.836769l16.99736,53.131622l-44.498688,-32.837662l-44.498692,32.837662l16.997395,-53.131622l-44.498697,-32.836769z" opacity="0.5" stroke-width="1.5" stroke="#000" fill="#ff7f00"/>
+  <path id="svg_2" d="m43,90.066086l43.544441,0l13.455559,-38.616867l13.455574,38.616867l43.544426,0l-35.228104,23.866272l13.456253,38.616867l-35.228149,-23.866913l-35.228134,23.866913l13.456276,-38.616867l-35.228134,-23.866272z" opacity="0.5" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#ffff00"/>
+  <text transform="matrix(2.72926, 0, 0, 2.59852, -127.296, -121.116)" font-weight="bold" font-style="italic" xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="32" id="svg_3" y="100.177504" x="65.939201" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#bf0000">SE</text>
+  <text transform="matrix(2.72926, 0, 0, 2.59852, -127.296, -121.116)" font-weight="bold" font-style="italic" xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="32" id="svg_4" y="101.332008" x="65.572799" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">SE</text>
+ </g>
+</svg>
